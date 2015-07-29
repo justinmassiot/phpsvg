@@ -33,7 +33,7 @@ Edit and create SVG Documents using Object Oriented PHP.
 * Well documented.
 
 ## Example use
-```
+```php
 <?php
 require_once "svglib.php";
 
