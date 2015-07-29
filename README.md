@@ -1,4 +1,5 @@
-# phpsvg
+
+# phpsvg ![project logo apple](https://github.com/justinmassiot/phpsvg/blob/master/logo_phpsvg.png)
 Edit and create SVG documents using Object-Oriented PHP
 
 License: [GPL v3](http://www.gnu.org/licenses/gpl.html)
